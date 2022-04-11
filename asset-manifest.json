@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tp1-memo/static/css/main.04e11b70.css",
-    "main.js": "/tp1-memo/static/js/main.832b0e5b.js",
+    "main.js": "/tp1-memo/static/js/main.fa14f64f.js",
     "index.html": "/tp1-memo/index.html",
     "main.04e11b70.css.map": "/tp1-memo/static/css/main.04e11b70.css.map",
-    "main.832b0e5b.js.map": "/tp1-memo/static/js/main.832b0e5b.js.map"
+    "main.fa14f64f.js.map": "/tp1-memo/static/js/main.fa14f64f.js.map"
   },
   "entrypoints": [
     "static/css/main.04e11b70.css",
-    "static/js/main.832b0e5b.js"
+    "static/js/main.fa14f64f.js"
   ]
 }
